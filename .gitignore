@@ -27,3 +27,5 @@ sessionID.json
 # Wakanda Remote Model Cache
 *.waRemoteModel
 
+
+/ignoreFollowBugGit/Untitled1.js
